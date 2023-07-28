@@ -837,9 +837,10 @@ box-shadow: 0 0 5px 5px #000;
    /* text-align: right; */
    }
    .main2{
-      width: 176%;
-      width: 250%;
+/*       width: 176%; */
+      width: 280%;
       display: flex;
+  background: var(--color-yellow);   
    }
 
 .yellow-box-container{
